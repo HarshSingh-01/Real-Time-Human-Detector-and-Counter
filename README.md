@@ -1,1 +1,1 @@
-# People-Counter
+# Real Time Human Detector & Counter
